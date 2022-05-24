@@ -8,6 +8,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color:aliceblue;
 }
 
 .banner{
@@ -16,12 +17,13 @@ body{
     object-fit: cover;
 }
 
-
 .wrapper{
     display: flex;
 
     max-width: 70%;
     width:100%;
+    
+    
 
     margin-right: auto;
     margin-left: auto;
@@ -68,6 +70,7 @@ footer{
     height: 30px;
     margin-top: auto;
     background-color: lightsteelblue;
+    padding-top:0.5%;
 
 }
 footer p{
